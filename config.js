@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao em lạnh lùng với anh vậy T.T`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'này con heo kìa máy nay không thân mật gì với tui hết chơn ấ😭 ',
+    desc: 'chọn sao cho coi được đó 😈 
     btnYes: 'yêu anh nhiều vl  <33',
     btnNo: 'Không,anh à  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
